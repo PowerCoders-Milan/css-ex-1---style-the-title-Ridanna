@@ -1,1 +1,23 @@
 /* Use Selectors and attributes for the HTML design */
+body{
+    background-color: rgb(252, 252, 252);
+    color: rgb(59, 141, 248);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 20px;
+    text-transform:none;
+    letter-spacing: 2px;
+    font-variant:initial;
+}
+h2{
+    text-align: center;
+    text-decoration: line-through;
+    text-shadow: 1.5px 1.5px 3px;
+    font-variant: initial;
+    letter-spacing: 8px;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+    color:rgb(62, 107, 243)
+}
